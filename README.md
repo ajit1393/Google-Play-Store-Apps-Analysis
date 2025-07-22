@@ -27,11 +27,13 @@ Rating-Review Correlation Study
 
 Dynamic Underperformer Identification
 
+
 🚀 Getting Started
 Prerequisites
 MySQL Server 8.0+
 
 Sample dataset (googleplaystore.csv)
+
 
 🛠️ Technical Stack
 Database: MySQL
@@ -39,12 +41,11 @@ Database: MySQL
 Core Techniques:
 
 Aggregation (AVG, ROUND)
-
 Temporary tables
-
 Query optimization
-
 User-defined variables
+Alter Columns
+Update Columns
 
 /playstore-analysis  
 ├── /data                 # Sample dataset (CSV)  
