@@ -33,6 +33,8 @@ Prerequisites
 MySQL Server 8.0+
 
 Sample dataset (googleplaystore.csv)
+<img width="838" height="479" alt="image" src="https://github.com/user-attachments/assets/dac1d985-0849-4461-aab1-15e6447bff19" />
+
 
 
 🛠️ Technical Stack
